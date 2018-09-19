@@ -8,10 +8,10 @@ language: 'en-uk'
 baseurl:
 
 # Website info
-title: Blog
-description: The professional publishing platform
+title: Min's Blog
+description: Min's IT Blog
 cover: assets/images/blog-cover.jpg
-logo: assets/images/blog-icon.png
+logo: MIN
 logo_dark: assets/images/favicon.png
 favicon: assets/images/favicon.png
 production_url: https://jekyller.github.io/jasper2/
