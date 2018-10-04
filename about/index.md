@@ -1,6 +1,6 @@
 ---
 layout: page
-current: about
+current: test01
 title: Test
 navigation: true
 logo: 'assets/images/ghost.png'
