@@ -2,7 +2,7 @@
 layout: page
 current: About
 title: Test
-navigation: true
+navigation: false
 logo: assets/images/ghost.png
 class: page-template
 subclass: 'post page'
