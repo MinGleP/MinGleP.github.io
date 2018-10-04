@@ -1,9 +1,9 @@
 ---
 layout: page
 current: About
-title: Test
-navigation: false
-logo: assets/images/ghost.png
+title: About
+navigation: true
+logo: 'assets/images/ghost.png'
 class: page-template
 subclass: 'post page'
 ---
