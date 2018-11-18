@@ -20,7 +20,7 @@ CMD창이 뜨면서 무한 재부팅이 되는 문제가 발생
 
 
 
-해결방안:
+해결방안 :
 
 C:\ProgramData\boxstarter << delete all
 
